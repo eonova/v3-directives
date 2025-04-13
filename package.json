@@ -1,13 +1,13 @@
 {
-  "name": "@ileostar/v3-directives",
-  "version": "1.0.6",
+  "name": "@eonova/v3-directives",
+  "version": "1.0.7",
   "packageManager": "pnpm@9.1.4",
   "description": "Custom Vue3 directives",
-  "author": "ileostar <hi@leostar.top> (https://github.com/ileostar)",
+  "author": "eonova <hi@eonova.top> (https://github.com/eonova)",
   "license": "MIT",
-  "homepage": "https://github.com/ileostar/v3-directives",
+  "homepage": "https://github.com/eonova/v3-directives",
   "bugs": {
-    "url": "https://github.com/ileostar/v3-directives/issues"
+    "url": "https://github.com/eonova/v3-directives/issues"
   },
   "keywords": [
     "v3",
@@ -29,8 +29,6 @@
     "dev": "tsup --watch & eslint-flat-config-viewer",
     "build": "tsup",
     "start": "esno src/index.ts",
-    "test": "vitest",
-    "test:ui": "vitest --ui",
     "lint": "eslint src/directive/**/*.ts",
     "lint:fix": "eslint src/**/*.*  --fix",
     "lint:ui": "eslint --inspect-config",
