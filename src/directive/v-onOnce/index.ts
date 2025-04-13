@@ -1,6 +1,6 @@
 /**
  * @description: v-onOnce指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/21 18:12:16
  * @description: 只触发一次回调
  */

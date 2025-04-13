@@ -6,7 +6,7 @@ Add custom watermark
 
 ## Example
 
-<div class="watermark" v-waterMarker="{text:'Leostar copyright',textColor:'rgba(180, 180, 180, 0.4)'}"></div>
+<div class="watermark" v-waterMarker="{text:'Eonova copyright',textColor:'rgba(180, 180, 180, 0.4)'}"></div>
 
 ## Usage
 
@@ -14,7 +14,7 @@ Add custom watermark
 <template>
   <div
     v-waterMarker="{
-      text:'Leostar copyright',
+      text:'Eonova copyright',
       textColor:'rgba(180, 180, 180, 0.4)'
     }"
   ></div>

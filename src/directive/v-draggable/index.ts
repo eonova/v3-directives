@@ -1,6 +1,6 @@
 /**
  * @description: v-draggable指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/07 11:12:16
  * @description: 使元素可拖拽
  */

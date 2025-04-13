@@ -1,6 +1,6 @@
 /**
  * @description: v-hover指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/07 11:12:16
  * @description: 鼠标经过触发事件
  */

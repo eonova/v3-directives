@@ -15,7 +15,7 @@ hero:
       link: /en/guide/directives.html#all-directives
     - theme: alt
       text: View on Github
-      link: https://github.com/ileostar/v3-directives
+      link: https://github.com/eonova/v3-directives
   image:
     src: /logo.svg
     alt: v3-directives

@@ -1,6 +1,6 @@
 /**
  * @description: v-money指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/21 18:12:16
  * @description: 格式化数字为金额
  */

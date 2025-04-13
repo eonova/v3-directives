@@ -15,7 +15,7 @@ hero:
       link: /zh/guide/directives.html#所有指令
     - theme: alt
       text: 前往 Github
-      link: https://github.com/ileostar/v3-directives
+      link: https://github.com/eonova/v3-directives
   image:
     src: /logo.svg
     alt: v3-directives

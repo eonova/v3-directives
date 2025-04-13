@@ -5,15 +5,15 @@
 ## 安装
 
 ```bash
-pnpm add @ileostar/v3-directives
+pnpm add @eonova/v3-directives
 # 或者使用 npm
-npm install @ileostar/v3-directives --save
+npm install @eonova/v3-directives --save
 ```
 
 ## 注册指令
 
 ```typescript {1,5}
-import LeoDirectives from '@ileostar/v3-directives'
+import LeoDirectives from '@eonova/v3-directives'
 
 const app = createApp(App)
 app.use(router).mount('#app')
@@ -56,7 +56,7 @@ export {
 
 ```typescript
 // 根据需求引入vDebounce
-import { vDebounce } from '@ileostar/v3-directives'
+import { vDebounce } from '@eonova/v3-directives'
 
 app.directives('vDebounce', vDebounce)
 ```

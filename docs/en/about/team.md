@@ -13,11 +13,11 @@ import {
 const members = [
   {
     avatar: 'https://avatars.githubusercontent.com/u/108746194?s=96&v=4',
-    name: 'LeoStar',
+    name: 'Eonova',
     title: 'A not-so-serious front-end Coder',
     links: [
-      { icon: 'github', link: 'https://github.com/ileostar' },
-      { icon: 'x', link: 'https://twitter.com/030LeoStar' }
+      { icon: 'github', link: 'https://github.com/eonova' },
+      { icon: 'x', link: 'https://twitter.com/030Eonova' }
     ]
   }
 ]

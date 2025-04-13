@@ -42,6 +42,8 @@
   "nuxt.isNuxtApp": false,
   "cSpell.words": [
     "backtop",
-    "longpress"
+    "longpress",
+    "oxlint",
+    "vnode"
   ]
 }

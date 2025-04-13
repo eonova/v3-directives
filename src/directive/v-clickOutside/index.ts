@@ -1,6 +1,6 @@
 /**
  * @description: v-clickOutside指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/07 11:12:16
  * @description: 点击元素外部触发时事件
  */

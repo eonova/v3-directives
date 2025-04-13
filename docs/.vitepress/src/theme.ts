@@ -54,13 +54,13 @@ export const themeConfig: DefaultTheme.Config = {
   },
 
   socialLinks: [
-    { icon: 'x', link: 'https://twitter.com/030LeoStar' },
-    { icon: 'github', link: 'https://github.com/ileostar/v3-directives' },
+    { icon: 'x', link: 'https://twitter.com/030Eonova' },
+    { icon: 'github', link: 'https://github.com/eonova/v3-directives' },
   ],
 
   footer: {
     message: 'Released under the MIT License.',
     copyright:
-      'Copyright © 2024-present <a href="https://github.com/ileostar">ileostar</a>',
+      'Copyright © 2024-present <a href="https://github.com/eonova">eonova</a>',
   },
 }

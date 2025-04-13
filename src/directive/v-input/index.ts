@@ -1,6 +1,6 @@
 /**
  * @description: v-input指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/07 11:12:16
  * @description: 限制输入类型
  */
@@ -25,7 +25,7 @@ const vInput: Directive = {
       switch (_type) {
         // 数字
         case 'number':
-          el.value = el.value.replace(/[^\d]/, '')
+          el.value = el.value.replace(/\D/, '')
           break
         // 数字+小数
         case 'decimal':

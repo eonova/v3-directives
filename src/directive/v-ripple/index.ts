@@ -1,6 +1,6 @@
 /**
  * @description: v-ripple指令
- * @LastEditors: ileostar
+ * @LastEditors: eonova
  * @LastEditTime: 2024/02/07 11:12:16
  * @description: 给元素添加波纹动效
  */

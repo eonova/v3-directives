@@ -6,7 +6,7 @@
 
 ## 示例
 
-<div class="watermark" v-waterMarker="{text:'leostar版权所有',textColor:'rgba(180, 180, 180, 0.4)'}"></div>
+<div class="watermark" v-waterMarker="{text:'eonova版权所有',textColor:'rgba(180, 180, 180, 0.4)'}"></div>
 
 ## 使用
 
@@ -14,7 +14,7 @@
 <template>
   <div
     v-waterMarker="{
-      text:'leostar版权所有',
+      text:'eonova版权所有',
       textColor:'rgba(180, 180, 180, 0.4)'
     }"
   ></div>
