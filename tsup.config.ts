@@ -9,4 +9,5 @@ export default defineConfig({
   treeshake: true,
   clean: true,
   dts: true,
+  external: ['vue'],
 })

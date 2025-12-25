@@ -21,6 +21,6 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue"
-  ],
+, "src/global.d.ts"  ],
   "exclude": ["node_modules"]
 }
