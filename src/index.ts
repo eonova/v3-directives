@@ -1,3 +1,4 @@
+/// <reference path="./directives.d.ts" />
 import type { App, Directive } from 'vue'
 import backtop from './directive/v-backtop'
 import clickOutside from './directive/v-clickOutside'

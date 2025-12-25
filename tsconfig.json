@@ -20,7 +20,8 @@
     "src/**/*.ts",
     "src/**/*.d.ts",
     "src/**/*.tsx",
-    "src/**/*.vue"
-, "src/global.d.ts"  ],
+    "src/**/*.vue",
+    "src/directives.d.ts"
+  ],
   "exclude": ["node_modules"]
 }
