@@ -1,6 +1,6 @@
 {
   "name": "@eonova/v3-directives",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "packageManager": "pnpm@10.26.2",
   "description": "Custom Vue3 directives",
   "author": "eonova <hi@eonova.me> (https://github.com/eonova)",
